@@ -34,7 +34,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nowrose-irab-poll-53b685142/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nowrose-irab-poll-53b685142/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nowrose%20Irab%20Poll-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/nowroseirabpoll/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="nowroseirabpoll@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
