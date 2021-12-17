@@ -35,8 +35,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nowrose-irab-poll-53b685142/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nowrose%20irab%20poll%2053b685142-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/nowroseirabpoll/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="nowroseirabpoll@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/nowroseirabpoll/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nowroseirabpoll-blue?style=flat-square&logo=instagram"></a>
+<a href="nowroseirabpoll@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nowroseirabpoll@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Nowrose-Irab-Poll](https://github.com/Nowrose-Irab-Poll)
