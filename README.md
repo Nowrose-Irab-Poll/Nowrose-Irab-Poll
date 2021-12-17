@@ -1,4 +1,5 @@
 <h2> Hey there! I'm Nowrose Irab Poll.</h2>
+<h2> I am a Software Enginner and Web Developer </h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -35,6 +36,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nowrose-irab-poll-53b685142/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nowrose%20irab%20poll%2053b685142-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/nowrozeirabpoll/"><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-nowrozeirabpoll-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/nowroseirabpoll/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nowroseirabpoll-blue?style=flat-square&logo=instagram"></a>
 <a href="nowroseirabpoll@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nowroseirabpoll@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
