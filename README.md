@@ -48,4 +48,4 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/Nowrose-Irab-Poll)
+⭐️ From [Nowrose-Irab-Poll](https://github.com/Nowrose-Irab-Poll)
