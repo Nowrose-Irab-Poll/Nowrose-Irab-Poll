@@ -1,5 +1,6 @@
 <h2> Hey there! I'm Nowrose Irab Poll.</h2>
 <h2> I am a Software Enginner and Web Developer </h2>
+<p> Email: nowroseirabpoll@gmail.com </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
