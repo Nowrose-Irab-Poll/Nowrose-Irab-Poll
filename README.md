@@ -35,8 +35,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nowrose-irab-poll-53b685142/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/nowroseirabpoll/"><img alt="Instagram" src="https://instagram.fdac27-1.fna.fbcdn.net/v/t51.2885-19/s320x320/266672298_1332836287156223_5930408447824584681_n.jpg?_nc_ht=instagram.fdac27-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=O5TclxGrt5UAX-UKb3m&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-7vrVhowtSZJ1gmhVLk99eWNA2JRaL4KT5bOUfzy5Cqw&oe=61C43A0A&_nc_sid=7bff83"></a>
+<a href="https://www.instagram.com/nowroseirabpoll/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="nowroseirabpoll@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>https://instagram.fdac27-1.fna.fbcdn.net/v/t51.2885-19/s320x320/266672298_1332836287156223_5930408447824584681_n.jpg?_nc_ht=instagram.fdac27-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=O5TclxGrt5UAX-UKb3m&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-7vrVhowtSZJ1gmhVLk99eWNA2JRaL4KT5bOUfzy5Cqw&oe=61C43A0A&_nc_sid=7bff83
+</p>
 
 ⭐️ From [Nowrose-Irab-Poll](https://github.com/Nowrose-Irab-Poll)
